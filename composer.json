@@ -15,15 +15,6 @@
     "keywords": [
 
     ],
-    "repositories": [
-        {
-            "type": "path",
-            "url": "../app",
-            "options": {
-                "symlink": true
-            }
-        }
-    ],
     "require": {
         "php": "^5.6.9",
         "philadelphia/app": "@dev"
